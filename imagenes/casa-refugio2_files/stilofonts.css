@@ -1,0 +1,202 @@
+@font-face {
+
+	font-family: 'icomoon';
+
+	src:url('../fonts/icomoon.eot?e8fk41');
+
+	src:url('../fonts/icomoon.eot?#iefixe8fk41') format('embedded-opentype'),
+
+		url('../fonts/icomoon.woff?e8fk41') format('woff'),
+
+		url('../fonts/icomoon.ttf?e8fk41') format('truetype'),
+
+		url('../fonts/icomoon.svg?e8fk41#icomoon') format('svg');
+
+	font-weight: normal;
+
+	font-style: normal;
+
+}
+
+
+
+[class^="icon-"], [class*=" icon-"] {
+
+	font-family: 'icomoon';
+
+	speak: none;
+
+	font-style: normal;
+
+	font-weight: normal;
+
+	font-variant: normal;
+
+	text-transform: none;
+
+	line-height: 1;
+
+
+
+	/* Better Font Rendering =========== */
+
+	-webkit-font-smoothing: antialiased;
+
+	-moz-osx-font-smoothing: grayscale;
+
+}
+
+
+
+.icon-mail:before {
+
+	content: "\ea83";
+
+	font-size: 24px;
+
+	color: #7FBD26;
+
+	text-decoration: none;
+
+}
+
+
+
+
+
+.icon-facebook2:before {
+
+	content: "\ea8d";
+
+	font-size: 24px;
+
+	color: #037CA5;
+
+	text-decoration: none;
+
+}
+
+
+
+
+
+
+
+.icon-twitter2:before {
+
+	content: "\ea92";
+
+	font-size: 24px;
+
+	color: #037CA5;
+
+	text-decoration: none;
+
+}
+
+.icon-twitter2:hover:before {
+
+	
+
+	color: #037CA5;
+
+	text-decoration: none;
+
+}
+
+.icon-facebook2:hover:before {
+
+	
+
+	color: #037CA5;
+
+	text-decoration: none;
+
+}
+
+.icon-mail:hover:before {
+
+	
+
+	color:#7FBD26;
+
+	text-decoration: none;
+
+}
+
+/*
+
+.icon-mail4:before {
+
+	content: "\ea86";
+
+	font-size: 30px;
+
+	color: #ddd;
+
+	margin-left: 10px;
+
+}
+
+
+
+.icon-facebook3:before {
+
+	content: "\ea8e";
+
+	font-size: 30px;
+
+	color: #ddd;
+
+	margin-left: 10px;
+
+}
+
+.icon-twitter3:before {
+
+	content: "\ea93";
+
+	font-size: 30px;
+
+	color: #ddd;
+
+	margin-left: 10px;
+
+}
+
+
+
+.icon-twitter3:hover {
+
+	color: #ddac36;
+
+}*/
+
+
+
+
+
+.icon-cog:before {
+
+	content: "\e994";
+
+}
+
+
+
+
+
+.icon-linkedin:before {
+
+	content: "\eac8";
+
+	
+
+	font-size: 24px;
+
+	color: #037CA5;
+
+}
+
+
+

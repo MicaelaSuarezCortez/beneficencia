@@ -1,0 +1,20 @@
+jQuery(document).ready(function($){
+/*$('.gnr').scrollNav({
+    sections: 'h3',
+    insertTarget: '.leftpane',
+    insertLocation: 'appendTo'
+});*/
+
+
+$(window).load(function() {
+    $('.flexslider').flexslider();
+  });
+
+
+
+$('.navbar-collapse a').click(function(){
+  $.scrollTo( this.hash, 1500, { easing:'swing' });
+  return false;
+});
+	
+});
